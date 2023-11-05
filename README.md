@@ -16,4 +16,4 @@ Capstone_Preview is a standalone document for an idea of the final resulting pro
 
 Demo is the Notebook to feed the files of this repository into. 
 
-You may choose to simply look at the Preview, or you may otherwise choose to operate your own version of the prelimary project established October 2023 using 'Demo' and accompanying files.
+You may choose to simply look at the Preview, or you may otherwise choose to operate your own version of the prelimary project established October 2023 using 'Demo' and accompanying csv / json files.
